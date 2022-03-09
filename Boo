@@ -1,4 +1,0 @@
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09e9d9037bbc6d4eac45bdee4b718b10:05db97174848670a152d0b15f3dab994
-#EXTINF:-1 tvg-id="404" tvg-name="BOO HD" group-title="Movies" tvg-logo="https://iili.io/1NC1Cx.png",BOO CH404
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
