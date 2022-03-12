@@ -1,5 +1,0 @@
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f99ffa2d27a4cfba05b83b91db846df:c79e916f9df7a1c71805e39cda30d93b
-#EXTINF:-1 group-title="Sports" tvg-id="801" tvg-chno="801" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/801.png",Astro Arena
-https://linear01-playback.sooka.my/CH3/masterCH3.mpd
