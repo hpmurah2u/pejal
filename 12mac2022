@@ -1,10 +1,6 @@
 #EXTM3U
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/tx2BRDm/covid-19-4855688-640.png" group-title="INFO",C-19 Latest Info Entire World
-#EXTINF:-1 tvg-id="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/FreeTv_Egypt_Logo.png" group-title="WELCOME TO FAZLY CHANNEL",FREE TV NOT FOR SALE Fazly Kacak",- Last Update: xx,xx,2022
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MALAYSIA",ASTRO RIA
 http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m01674187119012462906&ct=18379&tsum=c7c1fdf7b1e0b30aad376edc1f50ed87
 
