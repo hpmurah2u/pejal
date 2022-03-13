@@ -141,8 +141,8 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 #EXTINF:-1 tvg-id="ZeeBioskop.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Zee_bioskop.svg/revision/latest/scale-to-width-down/300?cb=20210517184835" group-title="INDONESIA",ZEE BIOSKOP
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
-
-
+#EXTINF:-1 tvg-id="000" tvg-logo="https://m.rctiplus.com/static/logo/rcti-sm.png" group-title="SPORT",RCTI+
+https://inews-linier.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_1537200=8-mp4a_64000_eng=2.m3u8
 
 
 
