@@ -1,5 +1,5 @@
 #EXTM3U 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
-#EXTINF:-1 tvg-id="811" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="SPORT",ASTRO SUPERSPORT
-http://linears-playback.astro.com.my/vsg/21cipO8QZ4ozfSkS_E_28lER0wO35cOufCrG1yG0DdpdM=ULTq/dash-wv/jitp-linearwm/601/default_ott.mpd
+#EXTINF:-1 tvg-id="811" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="Live | Sport",Astro Supersport
+http://linears-playback.astro.com.my/vsg/21nWdhYxqqAjNyPuR-Y8bxDQ3XHDX3Xn9D3ihCix_ucSs=F8bg/dash-wv/jitp-linearwm/601/default_ott.mpd
