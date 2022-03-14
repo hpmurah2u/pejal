@@ -1,6 +1,7 @@
 #EXTM3U
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/rtmklik.xml" url-tvg="https://weareblahs.github.io/epg/rtmklik.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml" url-tvg="https://weareblahs.github.io/epg/astro.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
-#EXTM3U
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MALAYSIA",ASTRO RIA
 http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m01674187119012462906&ct=18379&tsum=c7c1fdf7b1e0b30aad376edc1f50ed87
 
