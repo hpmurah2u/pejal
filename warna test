@@ -1,5 +1,0 @@
-#EXTM3U 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40bb94cdb1c90f6cc15073d9a500c810:264de3f18e64770e92a2d29f2b177701
-#EXTINF:-1 tvg-id="107" tvg-name="Astro Warna HD" group-title="Malay" tvg-logo="https://iili.io/1Nfp8F.png",Astro Warna HD CH107
-https://linears-playback.astro.com.my/vsg/21uRsll1l3HycZyhhRKd2NEYunyzj2Jnxj8ff5ZEpKWZk=9g8x/dash-wv/jitp-linearwm/2402/default_ott.mpd
