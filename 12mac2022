@@ -254,7 +254,7 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #EXTINF:-1 tvg-id="000" tvg-logo="https://m.rctiplus.com/static/logo/rcti-sm.png" group-title="SPORT",RCTI+
-https://inews-linier.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_1537200=8-mp4a_64000_eng=2.m3u8
+https://i-linier.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_1537200=8-mp4a_64000_eng=2.m3u8
 
 
 
@@ -624,6 +624,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5cd1850280996e9ced09c72027dfdb10&key=3a1d9a18b0d1ffc99ab259e16b3dc5dc
 #EXTINF:-1 tvg-id="521" tvg-logo="http://linear-poster.astro.com.my/prod/logo/DW_v1.png" group-title="NEWS",DW
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9984/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b937206e3d14cbb00611532f69f92c10:8f1b9168c854238f668acf898be6f7b0
+#EXTINF:-1 tvg-id="522" tvg-name="France24" group-title="NEWS" tvg-logo="https://iili.io/1mezTg.png",France24
+http://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default_ott.mpd
 
 
 
