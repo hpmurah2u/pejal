@@ -203,7 +203,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ba4df7f7152c90246234445b6243f610&key=e8117952182caf38bab3a6db439328a7
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1005/default_ott.mpd
 
-#EXTINF:-1 tvg-id="304" group-title="CHINESE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Astro_Xiao_Tai_Yang_%282019%29.png/revision/latest?cb=20191204084625", Astro Xiao Tai Yang Astro GO
+#EXTINF:-1 tvg-id="304" group-title="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Astro_Xiao_Tai_Yang_%282019%29.png/revision/latest?cb=20191204084625", Astro Xiao Tai Yang Astro GO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d3c8254e50da7724a51b591a83205b10&key=430df09e80ddc23d14f0acf7d24c5a46
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_ott.mpd
@@ -222,6 +222,31 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8cc914692987662d5beeed2a84ecf10:1ad7af3abe78cece01e7a772dd88a09b
+#EXTINF:-1 tvg-id="311" tvg-name="" group-title="CHINESE" tvg-logo="https://iili.io/1OtOw7.png",Astro AOD HD CH311
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=615ed4bcd8cecca6b9703e54252f8c10:84b3495bfb163c17a6cc6cf43b1f02e9
+#EXTINF:-1 tvg-id="352" tvg-name="" group-title="CHINESE" tvg-logo="https://iili.io/1NBYsR.png",Astro AOD CH352
+http://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72c97cb54df5626d72ab35a1d6efaf10:8d40587f3f21561aa2ca5b5bf008187e
+#EXTINF:-1 tvg-id="353" tvg-name="" group-title="CHINESE" tvg-logo="https://iili.io/1NBYsR.png",Astro AOD CH353
+http://linearjitp-playback.astro.com.my/dash-wv/linear/905/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d24b39ffd2824eeb3e03eb5da918ad10:7ca1866a4eace300a65998d1fc94ac28
+#EXTINF:-1 tvg-id="354" tvg-name="" group-title="CHINESE" tvg-logo="https://iili.io/1NBYsR.png",Astro AOD CH354
+http://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12415fae0e5af6a762e14eee8017ca10:0ae4216d6d772906acd1531c12adaead
+#EXTINF:-1 tvg-id="355" tvg-name="" group-title="CHINESE" tvg-logo="https://iili.io/1NBYsR.png",Astro AOD CH355
+http://linearjitp-playback.astro.com.my/dash-wv/linear/307/default_ott.mpd
 
 
 
