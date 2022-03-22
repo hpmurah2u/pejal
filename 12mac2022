@@ -33,10 +33,10 @@ http://203.154.243.89:21203/nakhon
 http://203.154.243.89:21204/nakhon
 #http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/59217
 
-#EXTINF:-1 tvg-id="701" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202202/20220220/20220220163044631gzk.png", group-title="SPORT" Unifi Sports 1
+#EXTINF:-1 tvg-id="701" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202202/20220220/20220220163044631gzk.png", group-title="SPORT", Unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 tvg-id="702" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202202/20220220/202202201646255845yc.png", group-title="SPORT" Unifi Sports 2
+#EXTINF:-1 tvg-id="702" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202202/20220220/202202201646255845yc.png", group-title="SPORT", Unifi Sports 2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
