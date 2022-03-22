@@ -847,6 +847,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=bef29d5caac3628eb1efae8a215fae10&key=645a0014ea459a86cfa72cf8137bb4a7
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
 
+#EXTINF:-1 tvg-id="AstroCricket" group-title="SPORT" ch-number="824" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",824 Astrox Cricket
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0a5ce785d63f164f5be079a0aa9b6210&key=d388cbf715f1bb08901a55a7db7f26c0
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="Astro First 477- Kampong Pisang Berbuah Dua Kali" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="ASTRO FIRST",Kampong Pisang Berbuah Dua Kali! 
 https://link.zozotv.xyz:443/@nasanash/Lifetime8899/509
 
