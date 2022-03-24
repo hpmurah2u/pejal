@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/rtmklik.xml"refresh="1440" max-conn="1" refresh="24"
-#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml"refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/unifitv.xml" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml" refresh="1440" max-conn="1" refresh="24"
 
@@ -855,31 +853,31 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0a5ce785d63f164f5be079a0aa9b6210&key=d388cbf715f1bb08901a55a7db7f26c0
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First 477- Kampong Pisang Berbuah Dua Kali" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="ASTRO FIRST",Kampong Pisang Berbuah Dua Kali! 
+#EXTINF:-1 tvg-id="477" tvg-name="Kampong Pisang Berbuah Dua Kali" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="ASTRO FIRST",Kampong Pisang Berbuah Dua Kali! 
 http://iptv12k.com:35461/movie/8022022301/468985/6507.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First 479- Hantu Mok Joh" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="ASTRO FIRST",Hantu Mok Joh
+#EXTINF:-1 tvg-id="475" tvg-name="Hantu Mok Joh" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="ASTRO FIRST",Hantu Mok Joh
 http://iptv12k.com:35461/movie/8022022301/468985/6138.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First 479- Hantu Kuat Ketawa" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="ASTRO FIRST",Hantu Kuat Ketawa
+#EXTINF:-1 tvg-id="472" tvg-name="Hantu Kuat Ketawa" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="ASTRO FIRST",Hantu Kuat Ketawa
 http://iptv12k.com:35461/movie/8022022301/468985/6144.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First 478- Marabahaya Underground" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="ASTRO FIRST",Marabahaya Underground
+#EXTINF:-1 tvg-id="478" tvg-name="Marabahaya Underground" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="ASTRO FIRST",Marabahaya Underground
 http://iptv12k.com:35461/movie/8022022301/468985/6110.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First 474 - Serangan Pocong" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="ASTRO FIRST",Serangan Pocong
+#EXTINF:-1 tvg-id="474" tvg-name="Serangan Pocong" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="ASTRO FIRST",Serangan Pocong
 https://link.zozotv.xyz:443/@nasanash/Lifetime8899/446
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First 476 - Hantu Ke Lima" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="ASTRO FIRST",Hantu Ke Lima
+#EXTINF:-1 tvg-id="476" tvg-name="Hantu Ke Lima" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="ASTRO FIRST",Hantu Ke Lima
 http://iptv12k.com:35461/movie/8022022301/468985/6090.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First 475 - Penunggang Agama 2" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="ASTRO FIRST",Penunggang Agama 2
+#EXTINF:-1 tvg-id="" tvg-name="Penunggang Agama 2" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="ASTRO FIRST",Penunggang Agama 2
 http://iptv12k.com:35461/movie/8022022301/468985/6117.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First 477- Siapa Tutup Lampu??" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="ASTRO FIRST",Siapa Tutup Lampu??
+#EXTINF:-1 tvg-id="" tvg-name="Siapa Tutup Lampu??" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="ASTRO FIRST",Siapa Tutup Lampu??
 http://iptv12k.com:35461/movie/8022022301/468985/6128.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First 474 - Belaban Hidup" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="ASTRO FIRST",Belaban Hidup
+#EXTINF:-1 tvg-id="" tvg-name="Belaban Hidup" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="ASTRO FIRST",Belaban Hidup
 http://iptv12k.com:35461/movie/8022022301/468985/6133.mp4
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
