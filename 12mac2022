@@ -45,42 +45,42 @@ channel kena tukar link tiap hari
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MALAYSIA",Astro Ria ASTRO GO
-https://linears-playback.astro.com.my/vsg/218bGZzbSrLvpXH7jZJ60K43mLRXwxhdVgywRMQqbsH14=9OkH/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/210_AJMnRw715WLNQtOL-bAiyhnhwYUfyKvvkHxHo7QHw=6QWB/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="MALAYSIA",Astro Warna ASTRO GO
-https://linears-playback.astro.com.my/vsg/218bGZzbSrLvpXH7jZJ60K43mLRXwxhdVgywRMQqbsH14=9OkH/dash-wv/jitp-linearwm/2402/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/210_AJMnRw715WLNQtOL-bAiyhnhwYUfyKvvkHxHo7QHw=6QWB/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
 #EXTINF:-1 tvg-id="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="MALAYSIA",Astro Citra ASTRO GO
-https://linears-playback.astro.com.my/vsg/218bGZzbSrLvpXH7jZJ60K43mLRXwxhdVgywRMQqbsH14=9OkH/dash-wv/jitp-linearwm/2700/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/210_AJMnRw715WLNQtOL-bAiyhnhwYUfyKvvkHxHo7QHw=6QWB/dash-wv/jitp-linearwm/2700/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
 #EXTINF:-1 tvg-id="811" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="SPORT",Astro Supersport ASTRO GO
-https://linears-playback.astro.com.my/vsg/210gaOogAaTR5F2ANXzDyhnGZBAJ69hU7wGcatfeyUCBE=vog4/dash-wv/jitp-linearwm/601/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/21-F4A4W6EXCbEU7bjdJ-YsJpO00DUfvqvi6Q23es-adw=aRRF/dash-wv/jitp-linearwm/601/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
 #EXTINF:-1 tvg-id="812" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="SPORT",Astro Supersport 2 ASTRO GO
-https://linears-playback.astro.com.my/vsg/2188NWq4NXYs9Mm86KGg6X0tnGSkFZ0FT62AzJZMqmJc8=RH_S/dash-wv/jitp-linearwm/2104/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/21Mx7RT0ppIJyetv7rNC-5oCx7Ks1Z6bPX0HAdnmoQf8k=5Q49/dash-wv/jitp-linearwm/2104/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
 #EXTINF:-1 tvg-id="813" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="SPORT",ASTRO Super Sport 3 ASTRO GO
-https://linears-playback.astro.com.my/vsg/21FedYhttcMARk-ZzcJeyFdEjQMA-z5qVgIAWrFBK5WY4=uSb3/dash-wv/jitp-linearwm/2701/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/210jqi7IccjvyqA4MKqwd7o_iNWDPFCyH8acs4tI_ysCU=_FYb/dash-wv/jitp-linearwm/2701/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
 #EXTINF:-1 tvg-id="814" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="SPORT",Astro Supersport 4 ASTRO GO
-https://linears-playback.astro.com.my/vsg/2144oBwF_qmVZQpWwKO57DDh6A1F6-Un8yMhNp_SkveAQ=qmdl/dash-wv/jitp-linearwm/2506/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/2125gZfJfWX9f_gqdxuNKmj6-fDM1TK2Yw9lWTrXv355U=HrDn/dash-wv/jitp-linearwm/2506/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39e518b58aff65d51ddd05d1597b1e10&key=e0fb4b6bf638b44756b6363ffb3db659
 #EXTINF:-1g-id="202" ch-number="AstroVinmeenHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Vinmeen.png" group-title="",202 Astro Vinmeen ASTRO GO
-https://linears-playback.astro.com.my/vsg/21qyoQXdvC3EDIe0CKKf4v4BToiK0FJ5J_yVeA1XFf0HQ=pqiJ/dash-wv/jitp-linearwm/2105/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/21J7ek5pgAfcY9zt57mGyyMxIKG5nQ0__LNMLorehUI5k=_BXo/dash-wv/jitp-linearwm/2105/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50f975bfac7d0c485fa36d54d2bba610:db4f4d75ac6d065e0fa1c0b6400251ab
@@ -90,7 +90,7 @@ https://linears-playback.astro.com.my/vsg/21dORl-eyTOXitkjY5GkzFLF5Grw6E3_-2PwHf
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
 #EXTINF:-1 tvg-id="AstroAEC" ch-number="Aec" group-title="CHINESE" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png",Astro AEC ASTRO GO 
-https://linears-playback.astro.com.my/vsg/21SZurENPw1z_psLNfQQmTxPU8wsJ_donCtggk3ldxBJA=jazg/dash-wv/jitp-linearwm/2400/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/21MJRxr9BBQeSor1OfMfiQ3toiY0vBFW834JA69d9sjaw=i6SM/dash-wv/jitp-linearwm/2400/default_ott.mpd
 
 tu je kene tukar setiap hari
 
