@@ -419,12 +419,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 #EXTINF:-1 tvg-id="CinemaxAsia.us" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="MOVIE",CINEMAX (ID)
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/2p97z9s2" group-title="MOVIE",&FLIX
-https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/104.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/2p93b39w" group-title="MOVIE",&PRIVE
-https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/105.ts
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
 #EXTINF:-1 tvg-id="404" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="MOVIE",BOO
