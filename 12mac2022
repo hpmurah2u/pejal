@@ -42,20 +42,20 @@ https://linears-playback.astro.com.my/vsg/21JvxLyHuvk9Ui2lS6IWWmB_7VxiYORdE4x56l
 #EXTINF:-1 tvg-id="811" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="SPORT",Astro Supersport ASTRO GO
 https://linears-playback.astro.com.my/vsg/21TKKQ1_4Yxig4qbnMSYNyQNvDzl2_Lmec7ao2OZBuAp4=r8ed/dash-wv/jitp-linearwm/601/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroSuperSport2" group-title="SPORT" ch-number="812" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",812 Astro Supersport 2 Astro Go
+#EXTINF:-1 tvg-id="AstroSuperSport2" group-title="SPORT" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",812 Astro Supersport 2 Astro Go
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
 https://linears-playback.astro.com.my/vsg/21l4Wrc5cll1KXsD0ru2nXG0E_V1G5bRYAFdoKCB0H-MI=lS4K/dash-wv/jitp-linearwm/2104/default_ott.mpd
 
-#EXTINF:-1 tvg-id="Astrosupersport3" group-title="SPORT" ch-number="813" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",813 Astro Supersport 3 Astro Go
+#EXTINF:-1 tvg-id="Astrosupersport3" group-title="SPORT" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",813 Astro Supersport 3 Astro Go
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
-https://linears-playback.astro.com.my/vsg/21Snb5vMb-mFMb9SxAc-qPupiyZlu4xTcTIZX7WVO8Nzc=dfo-/dash-wv/jitp-linearwm/2701/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/21bKqhir9V6lvCQP14G09seRHLL2kbdzmW8nyZiuwvaCU=JWwL/dash-wv/jitp-linearwm/2701/default_ott.mpd
 
-#EXTINF:-1 tvg-id="Astrosupersport4" group-title="SPORT" ch-number="814" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",814 Astro SuperSport 4 Astro Go
+#EXTINF:-1 tvg-id="Astrosupersport4" group-title="SPORT" ch-number="814" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",814 Astro SuperSport 4 Astro Go
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
-https://linears-playback.astro.com.my/vsg/21Snb5vMb-mFMb9SxAc-qPupiyZlu4xTcTIZX7WVO8Nzc=dfo-/dash-wv/jitp-linearwm/2506/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/21rGbeWXfxJqfIfsrQDqk01JnSwAfLGTe5xDrisjIL-oI=18Pm/dash-wv/jitp-linearwm/2506/default_ott.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
