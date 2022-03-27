@@ -62,6 +62,22 @@ https://linears-playback.astro.com.my/vsg/21PTuAKBKFszYblWw6OoslaQQZCQGvOhaHz42g
 #EXTINF:-1 tvg-id="811" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="SPORT",Astro Supersport ASTRO GO
 https://linears-playback.astro.com.my/vsg/21EPH1QTxGeaWabsSjor6me-1kMyAZAnpe2jHliqTJBfw=9ERm/dash-wv/jitp-linearwm/601/default_ott.mpd
 
+#EXTINF:-1 tvg-id="AstroSuperSport2" group-title="SPORT" ch-number="812" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",812 Astro Supersport 2 Astro Go
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
+https://linears-playback.astro.com.my/vsg/21Snb5vMb-mFMb9SxAc-qPupiyZlu4xTcTIZX7WVO8Nzc=dfo-/dash-wv/jitp-linearwm/2104/default_ott.mpd
+
+#EXTINF:-1 tvg-id="Astrosupersport3" group-title="SPORT" ch-number="813" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",813 Astro Supersport 3 Astro Go
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
+https://linears-playback.astro.com.my/vsg/21Snb5vMb-mFMb9SxAc-qPupiyZlu4xTcTIZX7WVO8Nzc=dfo-/dash-wv/jitp-linearwm/2701/default_ott.mpd
+
+#EXTINF:-1 tvg-id="Astrosupersport4" group-title="SPORT" ch-number="814" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",814 Astro SuperSport 4 Astro Go
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
+https://linears-playback.astro.com.my/vsg/21Snb5vMb-mFMb9SxAc-qPupiyZlu4xTcTIZX7WVO8Nzc=dfo-/dash-wv/jitp-linearwm/2506/default_ott.mpd
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39e518b58aff65d51ddd05d1597b1e10&key=e0fb4b6bf638b44756b6363ffb3db659
 #EXTINF:-1g-id="202" ch-number="AstroVinmeenHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Vinmeen.png" group-title="",202 Astro Vinmeen ASTRO GO
