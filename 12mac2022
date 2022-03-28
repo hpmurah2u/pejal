@@ -726,7 +726,7 @@ https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dac64e0ed7eec1cde6777b7616917710:6fcec68baae0c9822b8ec3f29f7cd0bc
-#EXTINF:-1 tvg-id="619" tvg-name="Boomerang HD" group-title="KIDS" tvg-logo="https://iili.io/1Nol0Q.png",Boomerang HD CH619
+#EXTINF:-1 tvg-id="619" tvg-name="Boomerang HD" group-title="KIDS" tvg-logo="https://iili.io/1Nol0Q.png",Boomerang HD 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
