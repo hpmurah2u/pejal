@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649399153/ei/EYFPYufNDs2y3LUP98epEA/ip/119.40.122.210/id/It3415lOIUU.2/source/yt_live_broadcast/requiressl/yes/tx/23756553/txs/23756553%2C23756554/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC3dgMmzQtYgFRL62HPkGG4CE0K_8kdl0vAHhnA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgeuIwstpDWCnpWbH_zzG3Sfgf94oLFsg3HifVBkzn0D4CIQDiIFNxhwKYszfk1UQtxU9LcPz9nsx8GhPoLB3r7CVUkw%3D%3D/file/index.m3u8
