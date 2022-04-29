@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MPD availabilityStartTime="1970-01-01T00:00:00.000Z" minBufferTime="PT4.00S" minimumUpdatePeriod="PT6.00S" profiles="urn:mpeg:dash:profile:isoff-live:2011" publishTime="2022-04-29T00:26:29.580Z" suggestedPresentationDelay="PT10S" timeShiftBufferDepth="PT60.00S" type="dynamic" xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:cenc="urn:mpeg:cenc:2013" xmlns:mspr="urn:microsoft:playready" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:scte35="urn:scte:scte35:2014:xml+bin" xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd">
+  <Period id="1648656350" start="PT0S">
+    <AdaptationSet bitstreamSwitching="false" contentType="video" id="1" mimeType="video/mp4" segmentAlignment="true">
+      <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed" cenc:default_KID="5f437ad2-9765-f253-325a-84298d9f0d10">
+        <cenc:pssh>AAAALHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAAwiBDEwMDRI49yVmwY=</cenc:pssh>
+      </ContentProtection>
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="5f437ad2-9765-f253-325a-84298d9f0d10" />
+      <SegmentTemplate initialization="$RepresentationID$_init.mp4" media="$RepresentationID$-$Time$.m4f" startNumber="102777964" timescale="90000">
+        <SegmentTimeline>
+          <S d="540000" r="9" t="148607273662211" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation bandwidth="360000" height="270" width="480" codecs="avc1.4d4015" frameRate="25000/1000" id="160/video-cif-stream-1" />
+      <Representation bandwidth="600000" height="270" width="480" codecs="avc1.4d4016" frameRate="25000/1000" id="160/video-cif-stream-2" />
+      <Representation bandwidth="800000" height="480" width="640" codecs="avc1.4d4020" frameRate="25000/1000" id="160/video-cif-stream-3" />
+      <Representation bandwidth="960000" height="540" width="960" codecs="avc1.4d4029" frameRate="25000/1000" id="160/video-cif-stream-4" />
+      <Representation bandwidth="1500000" height="720" width="1280" codecs="avc1.640029" frameRate="25000/1000" id="160/video-cif-stream-5" />
+    </AdaptationSet>
+    <AdaptationSet bitstreamSwitching="false" contentType="audio" id="3" lang="eng" mimeType="audio/mp4" segmentAlignment="true">
+      <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed" cenc:default_KID="5f437ad2-9765-f253-325a-84298d9f0d10">
+        <cenc:pssh>AAAALHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAAwiBDEwMDRI49yVmwY=</cenc:pssh>
+      </ContentProtection>
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="5f437ad2-9765-f253-325a-84298d9f0d10" />
+      <SegmentTemplate initialization="$RepresentationID$_init.mp4" media="$RepresentationID$-$Time$.m4f" startNumber="102777964" timescale="90000">
+        <SegmentTimeline>
+          <S d="540000" r="9" t="148607273662211" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation audioSamplingRate="48000" bandwidth="40000" codecs="mp4a.40.5" id="82/video-cif-stream-1" />
+    </AdaptationSet>
+    <AdaptationSet bitstreamSwitching="false" contentType="audio" id="2" lang="may" mimeType="audio/mp4" segmentAlignment="true">
+      <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed" cenc:default_KID="5f437ad2-9765-f253-325a-84298d9f0d10">
+        <cenc:pssh>AAAALHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAAwiBDEwMDRI49yVmwY=</cenc:pssh>
+      </ContentProtection>
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="5f437ad2-9765-f253-325a-84298d9f0d10" />
+      <SegmentTemplate initialization="$RepresentationID$_init.mp4" media="$RepresentationID$-$Time$.m4f" startNumber="102777964" timescale="90000">
+        <SegmentTimeline>
+          <S d="540000" r="9" t="148607273662211" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation audioSamplingRate="48000" bandwidth="40000" codecs="mp4a.40.5" id="80/video-cif-stream-1" />
+    </AdaptationSet>
+    <AdaptationSet contentType="text" id="4" lang="may" mimeType="application/mp4" segmentAlignment="true">
+      <SegmentTemplate initialization="$RepresentationID$_init.mp4" media="$RepresentationID$-$Time$.m4f" startNumber="102777964" timescale="90000">
+        <SegmentTimeline>
+          <S d="540000" r="9" t="148607273662211" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation bandwidth="30000" codecs="stpp" id="subtitle/smptett_frag_bitmap_may_profile_0_video-cif-stream-1" />
+    </AdaptationSet>
+    <AdaptationSet contentType="text" id="5" lang="eng" mimeType="application/mp4" segmentAlignment="true">
+      <SegmentTemplate initialization="$RepresentationID$_init.mp4" media="$RepresentationID$-$Time$.m4f" startNumber="102777964" timescale="90000">
+        <SegmentTimeline>
+          <S d="540000" r="9" t="148607273662211" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation bandwidth="30000" codecs="stpp" id="subtitle/smptett_frag_bitmap_eng_profile_0_video-cif-stream-1" />
+    </AdaptationSet>
+  </Period>
+</MPD>
