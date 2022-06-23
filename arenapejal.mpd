@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MPD availabilityStartTime="1970-01-01T00:00:00.000Z" minBufferTime="PT4.00S" minimumUpdatePeriod="PT6.00S" profiles="urn:mpeg:dash:profile:isoff-live:2011" publishTime="2022-06-23T15:15:08.388Z" suggestedPresentationDelay="PT10S" timeShiftBufferDepth="PT60.00S" type="dynamic" xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:cenc="urn:mpeg:cenc:2013" xmlns:mspr="urn:microsoft:playready" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:scte35="urn:scte:scte35:2014:xml+bin" xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd">
+  <Period id="1648452974" start="PT0S">
+    <AdaptationSet bitstreamSwitching="false" contentType="video" id="1" mimeType="video/mp4" segmentAlignment="true">
+      <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed" cenc:default_KID="40c958ab-2688-62f4-4ca7-169a0a634710">
+        <cenc:pssh>AAAALHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAAwiBDI2MDRI49yVmwY=</cenc:pssh>
+      </ContentProtection>
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="40c958ab-2688-62f4-4ca7-169a0a634710" />
+      <SegmentTemplate initialization="$RepresentationID$_init.mp4" media="$RepresentationID$-$Time$.m4f" startNumber="103417390" timescale="90000">
+        <SegmentTimeline>
+          <S d="540000" r="9" t="149039752354969" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation bandwidth="360000" height="270" width="480" codecs="avc1.428015" frameRate="25000/2000" id="161/video-cif-stream-1" />
+      <Representation bandwidth="600000" height="270" width="480" codecs="avc1.428016" frameRate="25000/1000" id="161/video-cif-stream-2" />
+      <Representation bandwidth="800000" height="480" width="640" codecs="avc1.4d4020" frameRate="25000/1000" id="161/video-cif-stream-3" />
+      <Representation bandwidth="960000" height="540" width="960" codecs="avc1.4d4029" frameRate="25000/1000" id="161/video-cif-stream-4" />
+      <Representation bandwidth="1500000" height="720" width="1280" codecs="avc1.640029" frameRate="25000/1000" id="161/video-cif-stream-5" />
+    </AdaptationSet>
+    <AdaptationSet bitstreamSwitching="false" contentType="audio" id="2" lang="may" mimeType="audio/mp4" segmentAlignment="true">
+      <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed" cenc:default_KID="40c958ab-2688-62f4-4ca7-169a0a634710">
+        <cenc:pssh>AAAALHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAAwiBDI2MDRI49yVmwY=</cenc:pssh>
+      </ContentProtection>
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="40c958ab-2688-62f4-4ca7-169a0a634710" />
+      <SegmentTemplate initialization="$RepresentationID$_init.mp4" media="$RepresentationID$-$Time$.m4f" startNumber="103417390" timescale="90000">
+        <SegmentTimeline>
+          <S d="540000" r="9" t="149039752354969" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation audioSamplingRate="48000" bandwidth="40000" codecs="mp4a.40.5" id="80/video-cif-stream-1" />
+    </AdaptationSet>
+    <AdaptationSet bitstreamSwitching="false" contentType="audio" id="3" lang="mul" mimeType="audio/mp4" segmentAlignment="true">
+      <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed" cenc:default_KID="40c958ab-2688-62f4-4ca7-169a0a634710">
+        <cenc:pssh>AAAALHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAAwiBDI2MDRI49yVmwY=</cenc:pssh>
+      </ContentProtection>
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="40c958ab-2688-62f4-4ca7-169a0a634710" />
+      <SegmentTemplate initialization="$RepresentationID$_init.mp4" media="$RepresentationID$-$Time$.m4f" startNumber="103417390" timescale="90000">
+        <SegmentTimeline>
+          <S d="540000" r="9" t="149039752354969" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation audioSamplingRate="48000" bandwidth="40000" codecs="mp4a.40.5" id="82/video-cif-stream-1" />
+    </AdaptationSet>
+  </Period>
+</MPD>
