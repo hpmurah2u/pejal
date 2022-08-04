@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:9397
+#EXTINF:6.0,
+http://cdn.lemmovie.com/live2/127.0.0.1:1977/hls/146172_MY_RIA-20220804-1659600792.ts
+#EXTINF:4.8,
+http://cdn.lemmovie.com/live2/127.0.0.1:1977/hls/146172_MY_RIA-20220804-1659600798.ts
+#EXTINF:4.8,
+http://cdn.lemmovie.com/live2/127.0.0.1:1977/hls/146172_MY_RIA-20220804-1659600803.ts
+#EXTINF:4.8,
+http://cdn.lemmovie.com/live2/127.0.0.1:1977/hls/146172_MY_RIA-20220804-1659600807.ts
+#EXTINF:4.8,
+http://cdn.lemmovie.com/live2/127.0.0.1:1977/hls/146172_MY_RIA-20220804-1659600812.ts
+#EXTINF:4.8,
+http://cdn.lemmovie.com/live2/127.0.0.1:1977/hls/146172_MY_RIA-20220804-1659600817.ts
