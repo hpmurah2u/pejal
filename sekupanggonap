@@ -139,7 +139,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default.mpd
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllXSmhNR1V5TlRBdFpUTmpOeTAwTVdZM0xXRmxPVFl0T0RWaU5tVm1PVE13TldNMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzUyMzk3NSwiaWF0IjoxNjkyOTE5OTc1fQ.VAU50wCYobXQtP5zLSPqB93fm5pNzZkQNSbHhr9ToFIEaGlZeTAwWlRWakxXSmhZamN0TnpkaU1XVmxORFF4TXpRMyIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzEwOTQ1OCwiaWF0IjoxNjkyNTA1NDU4fQ.FVvTL1k_yXmrKrR3BUDgIXGGI2b2KWBU3Ke6yPlL3ZY"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllXSmhNR1V5TlRBdFpUTmpOeTAwTVdZM0xXRmxPVFl0T0RWaU5tVm1PVE13TldNMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzUyMzk3NSwiaWF0IjoxNjkyOTE5OTc1fQ.VAU50wCYobXQtP5zLSPqB93fm5pNzZkQNSbHhr9ToFI"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
