@@ -93,6 +93,11 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_pri
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5120
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/DemiNegaraku.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",ASTRO RANIA HD
+ttps://linearjitp-playback.astro.com.my/dash-wv/linear/5120/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/609/
 #EXTINF:-1 tvg-id="113" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",ASTRO AURA HD 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
@@ -125,8 +130,13 @@ https://ktpremium.com:443/Sarah/Sarah/25968
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e76e86bd70f0aa82c94b38d82953dd10:26a6ef5c1c56182a5314b79215b8d06d
-#EXTINF:-1 tvg-id="611" tvg-name="ASTRO CERIA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png" group-title="🇲🇾 KIDS (ASTRO GO)",ASTRO CERIA HD
+#EXTINF:-1 tvg-id="400" tvg-name="ULTRAMAN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ultraman_logo.svg/250px-Ultraman_logo.svg.png" group-title="🇲🇾 KIDS (ASTRO GO)",ULTRAMAN HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2408/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
+#EXTINF:-1 tvg-id="611" tvg-name="ASTRO CERIA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png" group-title="🇲🇾 KIDS (ASTRO GO)",ASTRO CERIA HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 
 #EXTINF:-1 tvg-id="Dreamworks" group-title="🇲🇾 KIDS (ASTRO GO)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/485_144.png" ch-number="612",Dreamworks
 #KODIPROP:inputstream.adaptive.license_type=clearkey
