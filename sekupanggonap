@@ -85,7 +85,7 @@ https://cloudflare-ipfs.com/ipfs/QmeV8PDCHC1HRY3wjDC1WKXu66VyLfYJajMpzYNAgig5Vp
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)", ASTRO CITRA Sooka
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XVmxOVFl4TVRJdE9EVXlNaTAwWXpnd0xXSTJObUl0TkRsbE4yRTFPR1ZpTjJVNSIsIndtb3BpZCI6MzIsImV4cCI6MTY4ODQ5MjgwMCwiaWF0IjoxNjg3ODg4ODAwfQ.bA5Xli9SBPxMzeHdlY53VzdXKmljQUniL10xSBMZwqA","OTTNAF3yimtCD1OZd7rmuuHuMdTMcH9ork9Qh37Wd68k":"cCI6MTY4ODM1NjUxNiwiaWF0IjoxNjg3NzUyNTE2fQ"}
+#EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllXSmhNR1V5TlRBdFpUTmpOeTAwTVdZM0xXRmxPVFl0T0RWaU5tVm1PVE13TldNMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5NDIxMzkwMCwiaWF0IjoxNjkzNjA5OTAwfQ.OpTpwp0X_ygT8RcrV2Bt4_GlyE14OyCN9GZK1WNzt50"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"EQD+KXFG99AktZlE8J5tGg", "kid":"yk9f9ORpTVS9/cm9NDhCkA" } ], "type":"temporary" }
