@@ -141,7 +141,7 @@ https://ktpremium.com:443/Sarah/Sarah/25968
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e76e86bd70f0aa82c94b38d82953dd10:26a6ef5c1c56182a5314b79215b8d06d
 #EXTINF:-1 tvg-id="400" tvg-name="ULTRAMAN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ultraman_logo.svg/250px-Ultraman_logo.svg.png" group-title="🇲🇾 KIDS (ASTRO GO)",ULTRAMAN HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2408/manifest.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5121/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
