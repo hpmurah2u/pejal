@@ -446,6 +446,11 @@ https://mooncang.my.id/api/rplus/ch.m3u8?id=inews&amp;?|referer=https://www.rcti
 #EXTINF:-1  group-title="🇮🇩 INDONESIA" tvg-logo="https://i.postimg.cc/SxtYc1Xk/i-News-TV-Orange.png",iNews TV+
 https://mooncang.my.id/api/rplus/ch.m3u8?id=inews&amp;?|referer=https://www.rctiplus.com/
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇮🇩 INDONESIA" tvg-logo="https://gdplayer.tv/assets/img/logo/mnctv.png",MNC TV
+https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjMwNDEzZTItYTdkMS0zY2NlLTljODAtZmEwYjI3ZDg0NWE0
 #EXTINF:-1  group-title="🇮🇩 INDONESIA" tvg-logo="https://i.postimg.cc/wMHVMyQn/mnc-sports.png",MNC Sports 1
