@@ -1299,9 +1299,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5131/default_ott.mpd
 #EXTINF:-1 tvg-id="787" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/2022_Asian_Games_logo.svg/230px-2022_Asian_Games_logo.svg.png" group-title="🇲🇾 ASIAN GAME 🆕(ASTRO GO)",SUKAN ASIA LIVE (3)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5132/default_ott.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5130
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/2022_Asian_Games_logo.svg/230px-2022_Asian_Games_logo.svg.png" group-title="🇲🇾 ASIAN GAME 2023 🆕(ASTRO GO)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/2022_Asian_Games_logo.svg/230px-2022_Asian_Games_logo.svg.png",SUKAN ASIA LIVE (1)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5130/default_ott.mpd
