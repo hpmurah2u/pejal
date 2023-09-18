@@ -119,7 +119,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7737edd1d67824fa70df73154bf8110:68c5db3b309fab5503a6fdb580ddf281
-#EXTINF:-1g-id="202" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Vinmeen.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png"group-title="🇲🇾 INDIAN (ASTRO GO)",Astro Vinmeen HD
+#EXTINF:-1g-id="202" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Vinmeen.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 INDIAN (ASTRO GO)",Astro Vinmeen HD
 https://linears-playback.astro.com.my/vsg/41h34pifbrHetTXXeVKEkt9gsVlyLnu1NAR1LpDrQ32Dg=jVya/dash-wv/jitp-linearwm/2105/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -296,12 +296,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 #EXTINF:-1 tvg-id="123" tvg-name="Awesome TV" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",Awesome TV 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
 
-
 #EXTINF:-1 tvg-id="105" tvg-logo="https://baseimages.tonton.com.my/1546920448175_drama_sangat_logo.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",DRAMA SANGAT
 https://stream.zeehanzgadget.com/dramasangat
-
-
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2505/
