@@ -1277,11 +1277,6 @@ http://live.apicold.com/streaming/02_PremierHD5_720p/chunklist.m3u8?token=MTMzMz
 
 ===
 
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://assets.hmetro.com.my/images/articles/mecah2_1670648420.jpg" group-title="Mechamato The Movie(2022)", Mechamato The Movie(2022)
-https://onedrive.astradamy.com/api/raw/?path=/Movies/Mechamato.Movie.2022.1080p.AOTG.WEB-DL.H264.AAC-AstradaMY.mp4
-
-
 #EXTINF:-1 tvg-id="805" group-title="🇲🇾 SPORTS (ASTRO GO)" ch-number="805" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest/scale-to-width-down/1000?cb=20220415221642", Astro SuperSport UHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=720p
