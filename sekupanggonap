@@ -9,9 +9,8 @@
 https://live.mana2.my/SukeTV/index.m3u8?organizationId=196288014&suiteItemId=196291657
 #https://raw.githubusercontent.com/AqFad2811/randomlivefromyt2/main/SukeTV.m3u8
 
-=============================================================================================
-
 ==========================================================================================================
+
 #EXTINF:-1 tvg-id="701" tvg-name="unifi Sports 1" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202202/20220220/20220220163044631gzk.png", group-title="🇲🇾 SPORTS (ASTRO GO)", unifi Sports 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
@@ -1286,17 +1285,17 @@ sukan asia
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5130
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 ASIAN GAME 2023 🆕(ASTRO GO)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/2022_Asian_Games_logo.svg/230px-2022_Asian_Games_logo.svg.png",SUKAN ASIA LIVE (1)
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 ASIAN GAME 2023 🆕(ASTRO GO)" tvg-id="785" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/2022_Asian_Games_logo.svg/230px-2022_Asian_Games_logo.svg.png",SUKAN ASIA LIVE (1)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5130/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5131
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 ASIAN GAME 2023 🆕(ASTRO GO)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/2022_Asian_Games_logo.svg/230px-2022_Asian_Games_logo.svg.png",SUKAN ASIA LIVE (2)
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 ASIAN GAME 2023 🆕(ASTRO GO)" tvg-id="786" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/2022_Asian_Games_logo.svg/230px-2022_Asian_Games_logo.svg.png",SUKAN ASIA LIVE (2)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5131/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5132
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 ASIAN GAME 2023 🆕(ASTRO GO)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/2022_Asian_Games_logo.svg/230px-2022_Asian_Games_logo.svg.png",SUKAN ASIA LIVE (3)
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 ASIAN GAME 2023 🆕(ASTRO GO)" tvg-id="787" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/2022_Asian_Games_logo.svg/230px-2022_Asian_Games_logo.svg.png",SUKAN ASIA LIVE (3)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5132/default_ott.mpd
 
 
