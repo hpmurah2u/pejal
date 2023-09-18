@@ -124,7 +124,7 @@ https://linears-playback.astro.com.my/vsg/41h34pifbrHetTXXeVKEkt9gsVlyLnu1NAR1Lp
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60507ef0dc9c813d5f8c7b2229412f10:c8a0f7e69bb31dfd475da26fc6c6003b
-#EXTINF:-1 tvg-id="333" tvg-name="Astro Hua Hee Dai HD" group-title="🇲🇾 CHINESE (ASTRO GO)" tvg-logo="https://iili.io/1NB4Xj.png",Astro Hua Hee Dai HD
+#EXTINF:-1 tvg-id="333" tvg-name="Astro Hua Hee Dai HD" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 CHINESE (ASTRO GO)" tvg-logo="https://iili.io/1NB4Xj.png",Astro Hua Hee Dai HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -376,7 +376,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/202/default.mpd
 
 ====================================================================================================================================
 
-#EXTINF:-1 tvg-id="300" tvg-name="IQIYI HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="🇲🇾 CHINESE (ASTRO GO)" ,IQIYI HD 
+#EXTINF:-1 tvg-id="300" tvg-name="IQIYI HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 CHINESE (ASTRO GO)" ,IQIYI HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
@@ -386,49 +386,49 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=6d1150592f8279292bd668976cf61310:ef421541e66dcb856ec3c12dac42c859
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1005/default_ott.mpd
 
-#EXTINF:-1 tvg-id="304" tvg-name="Astro Xiao Tai Yang HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Astro_Xiao_Tai_Yang_%282019%29.png/revision/latest?cb=20191204084625" group-title="🇲🇾 CHINESE (ASTRO GO)", Astro Xiao Tai Yang HD
+#EXTINF:-1 tvg-id="304" tvg-name="Astro Xiao Tai Yang HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Astro_Xiao_Tai_Yang_%282019%29.png/revision/latest?cb=20191204084625" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 CHINESE (ASTRO GO)", Astro Xiao Tai Yang HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5cc5c01f66159595245fe8ae67910b10:3af580c7b21840030179f4dcad227c8a
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_ott.mpd
 
-#EXTINF:-1 tvg-id="305" tvg-name="TVB Classic" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png" group-title="🇲🇾 CHINESE (ASTRO GO)", TVB Classic
+#EXTINF:-1 tvg-id="305" tvg-name="TVB Classic" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 CHINESE (ASTRO GO)", TVB Classic
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=071448690a0ec9b27eb2c1a7d5e03010:933ae273b166baa8fb203eef1a7adbdf
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
 
-#EXTINF:-1 tvg-id="307" tvg-name="Astro Shuang Xing HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="🇲🇾 CHINESE (ASTRO GO)" , Astro Shuang Xing HD
+#EXTINF:-1 tvg-id="307" tvg-name="Astro Shuang Xing HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 CHINESE (ASTRO GO)" , Astro Shuang Xing HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=33566705d63f56f1d31c45f69568ed10:d13bcf0ca6e62d71b6c4dd70d5ffeab2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_ott.mpd
 
-#EXTINF:-1 tvg-id="308" tvg-name="Astro Quan Jia HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-title="🇲🇾 CHINESE (ASTRO GO)", Astro Quan Jia HD
+#EXTINF:-1 tvg-id="308" tvg-name="Astro Quan Jia HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 CHINESE (ASTRO GO)", Astro Quan Jia HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=89de71cf39be0946dec828edff84d010:9d5e036094bb77cbaf8867d3272c66d0
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=286aef4e8d85db66e05fe4a5c799e410:176e2938bce795d1c85559a2440477f7
-#EXTINF:-1 tvg-id="311" tvg-name="Astro AOD HD 311" group-title="🇲🇾 CHINESE (ASTRO GO)" tvg-logo="https://iili.io/1OtOw7.png",Astro AOD HD CH311
+#EXTINF:-1 tvg-id="311" tvg-name="Astro AOD HD 311" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 CHINESE (ASTRO GO)" tvg-logo="https://iili.io/1OtOw7.png",Astro AOD HD CH311
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a0c1f00f14777b3daf4a912c4310f110:e1db5e07a2bfe0fbf94ce56b5e139f48
-#EXTINF:-1 tvg-id="352" tvg-name="Astro AOD 352" group-title="🇲🇾 CHINESE (ASTRO GO)" tvg-logo="https://iili.io/1NBYsR.png",Astro AOD CH352
+#EXTINF:-1 tvg-id="352" tvg-name="Astro AOD 352" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 CHINESE (ASTRO GO)" tvg-logo="https://iili.io/1NBYsR.png",Astro AOD CH352
 http://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/905/
-#EXTINF:-1 tvg-id="353" tvg-name="Astro AOD 353" group-title="🇲🇾 CHINESE (ASTRO GO)" tvg-logo="https://iili.io/1NBYsR.png",Astro AOD CH353
+#EXTINF:-1 tvg-id="353" tvg-name="Astro AOD 353" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 CHINESE (ASTRO GO)" tvg-logo="https://iili.io/1NBYsR.png",Astro AOD CH353
 http://linearjitp-playback.astro.com.my/dash-wv/linear/905/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/212/
-#EXTINF:-1 tvg-id="354" tvg-name="Astro AOD 354" group-title="🇲🇾 CHINESE (ASTRO GO)" tvg-logo="https://iili.io/1NBYsR.png",Astro AOD CH354
+#EXTINF:-1 tvg-id="354" tvg-name="Astro AOD 354" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 CHINESE (ASTRO GO)" tvg-logo="https://iili.io/1NBYsR.png",Astro AOD CH354
 http://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/307/
-#EXTINF:-1 tvg-id="355" tvg-name="Astro AOD 355" group-title="🇲🇾 CHINESE (ASTRO GO)" tvg-logo="https://iili.io/1NBYsR.png",Astro AOD CH355
+#EXTINF:-1 tvg-id="355" tvg-name="Astro AOD 355" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 CHINESE (ASTRO GO)" tvg-logo="https://iili.io/1NBYsR.png",Astro AOD CH355
 http://linearjitp-playback.astro.com.my/dash-wv/linear/307/default_ott.mpd
 
 
@@ -569,7 +569,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a642dd4bf3ea782e19202adefb604b10:3f59355e15eed1bb219ea1687d55cfbb
-#EXTINF:-1 tvg-id="321" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CCM_v1.png" group-title="🇲🇾 CHINESE (ASTRO GO)",Celestial Classic Movies
+#EXTINF:-1 tvg-id="321" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CCM_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 CHINESE (ASTRO GO)",Celestial Classic Movies
 http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1277,7 +1277,7 @@ new channel of astro
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49a10d0610e700b4b20dd1c91a2fc310:eb5b2cec485514216f7c25d102ab8a13
-#EXTINF:-1 tvg-id="124" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/TVB_Magic_IVP_LAND_917x516.jpg" group-title="🇲🇾 CHINESE (ASTRO GO)",TVB Magic 
+#EXTINF:-1 tvg-id="124" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/TVB_Magic_IVP_LAND_917x516.jpg" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 CHINESE (ASTRO GO)",TVB Magic 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5107/default_ott.mpd
 
 ==================================
@@ -1297,7 +1297,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5131/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5132
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 ASIAN GAME 2023 🆕(ASTRO GO)" tvg-id="787" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/2022_Asian_Games_logo.svg/230px-2022_Asian_Games_logo.svg.png",SUKAN ASIA LIVE (3)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5132/default_ott.mpd
-
 
 
 
