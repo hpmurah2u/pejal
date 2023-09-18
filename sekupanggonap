@@ -10,11 +10,7 @@ https://live.mana2.my/SukeTV/index.m3u8?organizationId=196288014&suiteItemId=196
 #https://raw.githubusercontent.com/AqFad2811/randomlivefromyt2/main/SukeTV.m3u8
 
 =============================================================================================
-#EXTINF:-1 tvg-id="" group-title="KOREAN MOVIES" ch-number="" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/07/film-2037-2022-lk21-d21.jpg",2037
-https://stream.xpeer.xyz/playlist1/2037-2022/master_480.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="KOREAN MOVIES" ch-number="" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/07/film-the-roundup-2022-lk21-d21.jpg",THE ROUNDUP (2022)
-https://stream.xpeer.xyz/playlist1/the-roundup-2022/master_480.m3u8
 ==========================================================================================================
 #EXTINF:-1 tvg-id="701" tvg-name="unifi Sports 1" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202202/20220220/20220220163044631gzk.png", group-title="🇲🇾 SPORTS (ASTRO GO)", unifi Sports 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
