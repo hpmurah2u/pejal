@@ -1299,5 +1299,13 @@ new channel of astro
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5107/default_ott.mpd
 
 ==================================
+sukan asia
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5130
+#EXTINF:-1 tvg-id="785" tvg-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="🇲🇾 SPORTS (ASTRO GO)",SUKAN ASIA LIVE (1)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5130/default_ott.mpd
+
+
 
 
