@@ -306,7 +306,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88b324e7e763532b770d84d370d7c810:0ad1e7b2d71fd73a5c199739e534da4b
-#EXTINF:-1 tvg-id="601" tvg-name="Astro Premier" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Astro_Premier.png/200px-Astro_Premier.png",Astro Premier 
+#EXTINF:-1 tvg-id="410" tvg-name="Astro Premier" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Astro_Premier.png/200px-Astro_Premier.png",Astro Premier 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5070/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
