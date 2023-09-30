@@ -1168,7 +1168,7 @@ https://dje6yassknq8t.cloudfront.net/playlist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5085
+#KODIPROP:inputstream.adaptive.license_key=0510cd2f13504601956fb58167de6beb:bdd71968a15b634b3e097173a8b7ea7b
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",Astro Sensasi HD
 https://co2-bks400-05.starhubgo.com/bpk-token/2ab@ltq53pwlc4x5jspmlp4c4b51520e2p5tlnq3uxca/bpk-tv/HubSensasiHD/output/manifest.mpd?bkm-query
 
