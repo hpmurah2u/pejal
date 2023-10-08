@@ -1265,7 +1265,7 @@ http://live.apicold.com/streaming/02_PremierHD5_720p/chunklist.m3u8?token=MTMzMz
 #KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=720p
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22fbef1c1cd725e9397ec16455f08210:7aea43cd93c24aa9834ecb4984f7fd5a
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
 
 =========================================
 
