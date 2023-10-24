@@ -153,7 +153,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yUmhNREU0WVdFdE5EQmxPQzAwWkdSaUxUazRNbVF0TURJNE5HVmhPVEppTnpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5ODY1MTI2OCwiaWF0IjoxNjk4MDQ3MjY4fQ.9HrJGSuux_HKnNp9nsN38ChmqP1oDRiBdUhDGjOVSoc"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpUSXhZVE5sT0RRdFlqRXlNQzAwWVRrNUxXSXlaRFl0TnpNeE5qSXhNRFJsWWpWbSIsIndtb3BpZCI6MzIsImV4cCI6MTY5ODc1MDM4MiwiaWF0IjoxNjk4MTQ2MzgyfQ.Rej8RbCpGNjRzbtRdWghNohXzGKdwznXmLvX1pcnp_I"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
@@ -196,7 +196,7 @@ https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yUmhNREU0WVdFdE5EQmxPQzAwWkdSaUxUazRNbVF0TURJNE5HVmhPVEppTnpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5ODY1MTI2OCwiaWF0IjoxNjk4MDQ3MjY4fQ.9HrJGSuux_HKnNp9nsN38ChmqP1oDRiBdUhDGjOVSoc"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpUSXhZVE5sT0RRdFlqRXlNQzAwWVRrNUxXSXlaRFl0TnpNeE5qSXhNRFJsWWpWbSIsIndtb3BpZCI6MzIsImV4cCI6MTY5ODc1MDM4MiwiaWF0IjoxNjk4MTQ2MzgyfQ.Rej8RbCpGNjRzbtRdWghNohXzGKdwznXmLvX1pcnp_I"}
 #EXTINF:-1 tvg-id="803" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)",ASTRO ARENA BOLA
 https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 
