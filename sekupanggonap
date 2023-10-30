@@ -1841,8 +1841,7 @@ https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague1nl/Mani
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=73a5705d89e43090166c27845ecb0510:6515b27faa59b6cf00e274db05d911f4
 #EXTINF:-1 tvg-id="xx" tvg-name="Ibu Belum Mati" group-title="Astro Citra - AOD" tvg-logo="https://iili.io/GsBIne.jpg",Ibu Belum Mati
-https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/8e4acb4a-2f09-5cd9-8d4a-a6dd3ee608a9/default_dash.mpd?PID=astro.2d&PAID=TITL0000000000307894&deviceIdType=%5BdevIdType%5D&deviceId=95062237af001f38dedb35ca42295c6c&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-vod-f19cf853-8219-4111-bff3-b91d4c68e3e3&optin=true&externalPackageId=PACK0000000000307894&parentalRating=11&playedPosition=00%3A00%3A00&hhid=28cff54ea9d5309635f0266fb727d77a&kvp=lang%7Emay&kvp=genre%7E1%7E16&kvp=contentId%7ETITL0000000000307894&kvp=provider%7Eastro.2d&kvp=parentalRating%7E11&daiEnabled=true
-
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/8e4acb4a-2f09-5cd9-8d4a-a6dd3ee608a9/default_dash.mpd
 
 
 
