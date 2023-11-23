@@ -41,7 +41,8 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live15.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004/
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png",ASTRO RIA HD
-http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1705
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroRiaHD
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yUmhNREU0WVdFdE5EQmxPQzAwWkdSaUxUazRNbVF0TURJNE5HVmhPVEppTnpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTA0NjcyOCwiaWF0IjoxNzAwNDQyNzI4fQ.Thwg2qmnavViI6czwEKFomJwaZSIm2SM9sLmYGHgvPI"}
@@ -60,7 +61,7 @@ https://linear07-playback.sooka.my/CH4/masterCH4.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402/
 #EXTINF:-1 tvg-id="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",ASTRO WARNA HD
-http://iptv12k.com:35461/7010925006/990986/5075
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroWarnaHD
 #https://us.dispatch.ulivetv.net/v/live/cg4ao9s4cbeo.m3u8?stream_id=cg4ao9s4cbeo&timestamp=1695741549&rand=JOh9Xftyg5&uuid=aXLvgeKovvvZBwiur48g83&from=web&sign=7930733c915433a226d9758e4b60b41d|referer=https://www.histar.tv
 #http://muka03.wanicelife.com:8880/6m210012/18277421/1706
 #http://odtv.uk:80/3028968008/9141808032/1100
@@ -73,8 +74,7 @@ https://linear05-playback.sooka.my/CH1/masterCH1.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700/
 #EXTINF:-1 tvg-id="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",ASTRO CITRA HD 
-http://iptv12k.com:35461/7010925006/990986/721
-#http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/26
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroCitraHD
 #https://us.dispatch.ulivetv.net/v/live/cg4ckrx6xyv4.m3u8?stream_id=cg4ckrx6xyv4&timestamp=1695739657&rand=mWuD1w89CJ&uuid=sHZVn5xx4yaBo5nMkxFnto&from=web&sign=11f8aed71458456e999efd2064f34951|referer=https://www.histar.tv
 #https://cloudflare-ipfs.com/ipfs/QmeV8PDCHC1HRY3wjDC1WKXu66VyLfYJajMpzYNAgig5Vp
 
