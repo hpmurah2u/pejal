@@ -427,8 +427,8 @@ https://mooncang.my.id/api/rplus/ch.m3u8?id=inews&amp;?|referer=https://www.rcti
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇮🇩 INDONESIA" tvg-logo="https://gdplayer.tv/assets/img/logo/mnctv.png",MNC TV
-https://idx.iptvfreemium.com/mnclokal/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇮🇩 INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/200px-MNCTV_logo_2015.svg.png",MNC TV
+https://mangga-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
