@@ -432,7 +432,7 @@ https://mangga-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
-#EXTINF:-1  group-title="🇮🇩 INDONESIA" tvg-logo="https://i.postimg.cc/wMHVMyQn/mnc-sports.png",MNC Sports 1
+#EXTINF:-1  group-title="🇮🇩 INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sportstars.png/200px-Sportstars.png",MNC Sports 1
 https://mangga-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
