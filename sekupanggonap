@@ -451,10 +451,10 @@ https://mangga-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTINF:-1  group-title="🇮🇩 INDONESIA" tvg-logo="https://i.postimg.cc/wMHVMyQn/mnc-sports.png",MNC Sports 3
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjMwNDEzZTItYTdkMS0zY2NlLTljODAtZmEwYjI3ZDg0NWE0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
 #EXTINF:-1  group-title="🇮🇩 INDONESIA" tvg-logo="https://i.ibb.co/Qm5jsdg/Soccer-Channel.png",MNC Soccer Channel
-https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+https://mangga-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjMwNDEzZTItYTdkMS0zY2NlLTljODAtZmEwYjI3ZDg0NWE0
