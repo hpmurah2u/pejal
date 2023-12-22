@@ -1755,6 +1755,17 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/8e4acb4a-
 #EXTINF:-1 tvg-id="xx" tvg-name="" group-title="Netflix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/220px-Netflix_2015_logo.svg.png",Jawan 2023
 https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EVnhtVZMsmJBsRBSsPRtk0wBRt9w2tkIO3aj9ZhdcU7vvg
 
+===================
+testing
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"525cba03-beac-4eb7-ba70-d9a10b181abe","kty":"RSA","alg":"RS256","n":"AKJvEsN_WzyVW-J5riUW9vf8hoNlCzl9gsFaWYkiv45MLT_YqnKlhLBYuJZ42cftc7kp2xOp_lbnD6um-XcvO-VMI-WYidW3N2cwtGQexLNsNw0Zr-P3evTdwsWnHgpJa9ZLAkTYWFNb61gL4FSWAv4N9t9jwI5bSnMMLb2yIxmhIrXavlQj9cyV8WQE6pXBNB5-jnvEl55Fslpk2Iuv1-3aMJcYoqcM2JyL_JzqFcQn5hW1cwl2grwKZjSVzW-519vl_rLH8Gj_YelfMlPso9YRrwTI4J2NXEXQbY98zs0bIwGYygSZya543Ze9Bs0alG0HfTmc6uEgKpQ6bkm1oKc=","e":"AQAB"}]}
+#EXTINF:-1 tvg-id="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/WWE_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)",arena2 testing
+https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5057/default_ott.mpd
+
+
+
+
 
 
 
