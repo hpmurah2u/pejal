@@ -41,7 +41,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live15.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png",ASTRO RIA HD
-https://linears-playback.astro.com.my/vsg/41RWXbI5_ObvgpYllyu1QkHTIUKaWsAE6QRUNLC6YowN4=7IA4/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41RWXbI5_ObvgpYllyu1QkHbRvDccstc5R3ivAE5yicFo=Rsk6/dash-wv/jitp-linearwm/1004/default_ott.mpd
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/79321
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
