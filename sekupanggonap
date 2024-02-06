@@ -41,7 +41,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live15.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png",ASTRO RIA HD
-https://linears-playback.astro.com.my/vsg/41RWXbI5_ObvgpYllyu1QkHc2vvlXxMjVvhafSKiLm5aM=C3ls/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41RWXbI5_ObvgpYllyu1QkHSy7Oj8Cv4iUPFYIn5CPZ9I=aqJK/dash-wv/jitp-linearwm/1004/default_ott.mpd
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/79321
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -61,7 +61,7 @@ https://linear07-playback.sooka.my/CH4/masterCH4.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
 #EXTINF:-1 tvg-id="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",ASTRO WARNA HD
-https://linears-playback.astro.com.my/vsg/412YC97OfL0tRH7547SNxmrbtZx6YOTLNSOvG1-_XOxIM=4yJu/dash-wv/jitp-dashisowm/2402/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/412YC97OfL0tRH7547SNxmrXzq9BqH3Lw-R4jM3KSM_vs=oltZ/dash-wv/jitp-dashisowm/2402/default_ott.mpd
 http://mytv-extra.com:80/t12mgxyb335/9832948789/191874
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -72,8 +72,7 @@ https://linear05-playback.sooka.my/CH1/masterCH1.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700/
 #EXTINF:-1 tvg-id="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",ASTRO CITRA HD 
-https://linears-playback.astro.com.my/vsg/41O_F8KUa3u_jFFQIAtETDpA3nRgpOZeFxUjhTsmCBclg=N9_h/dash-wv/jitp-dashisowm/2700/default_ott.mpd?PID=&PAID=2700&deviceIdType=%5BdevIdType%5D&deviceId=fdd4aea5a0125c8e2f5e28dbf85f56cd&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-linear-dd6709d4-7ab9-4623-807e-608a8acd2ce2&optin=true&hhid=6a2352769f52047fbac621d1e31c6a56&kvp=lang%7Emay&kvp=genre%7EHD%2CMALAY%2CMOVIES&daiEnabled=true
-
+https://linears-playback.astro.com.my/vsg/41O_F8KUa3u_jFFQIAtETDpCE7qtrUsXttLPkwn278TME=aTBg/dash-wv/jitp-dashisowm/2700/default_ott.mpd?PID=&PAID=2700&deviceIdType=%5BdevIdType%5D&deviceId=fdd4aea5a0125c8e2f5e28dbf85f56cd&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-linear-83180dce-a0b2-47dd-aa33-f83d8d8eec35&optin=true&hhid=6a2352769f52047fbac621d1e31c6a56&kvp=lang%7Emay&kvp=genre%7EHD%2CMALAY%2CMOVIES&daiEnabled=true
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)", ASTRO CITRA Sooka
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yUmhNREU0WVdFdE5EQmxPQzAwWkdSaUxUazRNbVF0TURJNE5HVmhPVEppTnpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwNDIwNzQyMCwiaWF0IjoxNzAzNjAzNDIwfQ.4bOrnyY4PyEs2kVUSOy0gsT78imUeBa15xB3qcJPVWE"}
@@ -86,7 +85,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 #EXTINF:-1 tvg-id="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",ASTRO PRIMA HD
-https://linears-playback.astro.com.my/vsg/41k5piW7fDOXyn3bkrCuzrfpvLWJx1ONfNB5wSAWs8Asg=buWI/dash-wv/jitp-dashisowm/1000/default_ott.mpd?PID=&PAID=1000&deviceIdType=%5BdevIdType%5D&deviceId=fdd4aea5a0125c8e2f5e28dbf85f56cd&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-linear-df7a0667-5751-42aa-bdb9-528704ba085f&optin=true&hhid=6a2352769f52047fbac621d1e31c6a56&kvp=lang%7Emay&kvp=genre%7EHD%2CMALAY&daiEnabled=true
+https://linears-playback.astro.com.my/vsg/41k5piW7fDOXyn3bkrCuzrfse_nKgf23cxebr08B8IPhQ=Fy4U/dash-wv/jitp-dashisowm/1000/default_ott.mpd?PID=&PAID=1000&deviceIdType=%5BdevIdType%5D&deviceId=fdd4aea5a0125c8e2f5e28dbf85f56cd&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-linear-5e0c649c-8b34-491d-89ae-d355a1976e82&optin=true&hhid=6a2352769f52047fbac621d1e31c6a56&kvp=lang%7Emay&kvp=genre%7EHD%2CMALAY&daiEnabled=true
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 #https://us.dispatch.ulivetv.net/v/live/cg49a7nnj64g.m3u8?stream_id=cg49a7nnj64g&timestamp=1695742025&rand=qKW2DPbXcM&uuid=jHpT5hpwmLn4sdQFSc6dnt&from=web&sign=cbed8a8b0a5374dc51676dd347e08c3c|referer=https://www.histar.tv
 
