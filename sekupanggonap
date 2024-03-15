@@ -1157,8 +1157,8 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live29.mpd
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/unifi%20tv%20logo%20petak.png" group-title="UNIFI TV",Dunia Sinema HD 
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live27.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"gQyaRkZaI1LZjGhFeEqzag", "kid":"CpKCvtGROFxS/j92p8OYAw" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Degup.png/revision/latest?cb=20220924000615" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/unifi%20tv%20logo%20petak.png" group-title="UNIFI TV",Degup 
 https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227923/3221227923.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=i+FR+Ei7v4tKojZu+w2OzF/BR+vfwKOeI+eukO4kQtxh/zIzZJaeZKSUaIr57TLDz1oUQ6OxWM7tN4gBBY1SA1OtFdWWApwo8Xq4d/yDFoNnMTcXrd3ZEW1en0PXQUanQ8hLGYcrK28KN05xe9jDnA==:20230619183513:UTC,1006594212,203.106.115.36,20230619183513,urn:Huawei:liveTV:XTV55631601,1006594212,-1,0,1,,,2,,,,2,4640591,0,3560051,782fbed4-d36e-3b0f-920b-a0985094f3e2,,,2,1,END&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.154_80&hms_devid=1745&mag_hms=1745,1787,1796,1790&it=H4sIAAAAAAAAA0XMTwvCIBiA8W_jUeafDT14KoIuEqy6xqu-ysBN0jXo28ci6P78nrWCx_PRRNE7ZBKGoEAGHyDGoWcKtZKOaS1Iw6ctRhAPOU9LsiXs7D4eHqyjHeWcUSHJdd-dMiTDv6V9zQ7rn41Yt8mjCS3SDRqFlComWKey0EuG963mX_IBAPNhDZkAAAA
 
