@@ -148,7 +148,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5095/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XSmlORGMyWVdJdFpEa3lPQzAwTW1ReUxUazRPREl0T0RZMU56aGhaVFEyTVdFNCIsIndtb3BpZCI6MzIsImV4cCI6MTcxMDM3NzIwNywiaWF0IjoxNzA5NzczMjA3fQ.mstAY1EujnjApxk1BhfqUKrYazyxaRIRcs7CyFmHBNA"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yUmhNREU0WVdFdE5EQmxPQzAwWkdSaUxUazRNbVF0TURJNE5HVmhPVEppTnpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcxMTAwODY5MCwiaWF0IjoxNzEwNDA0NjkwfQ.14EpcpHBXIah8n9UAKKXx6I0PJTKCaU7D_77HIj6HsU"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
