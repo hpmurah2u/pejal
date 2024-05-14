@@ -47,7 +47,7 @@ http://abcnew.site:8880/48mmk110009/91991171/1705
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlkySXlPR1ppT0RJdE1qTXlPUzAwTURObExUazBPREV0WkdSa1ptRXhORFpqTWpFeCIsIndtb3BpZCI6MzIsImV4cCI6MTcxNTgzMzQ3MSwiaWF0IjoxNzE1MjI5NDcxfQ.EtK2GjkxONdey56EHsbV7M7lmNqfhJppl8cpZjn1HDA"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"37fb99ca61a94c889fdc758bb2a67495": "f723fd2686d9ce8f76a83fac34dff9e4"}
+#KODIPROP:inputstream.adaptive.license_key=37fb99ca61a94c889fdc758bb2a67495:f723fd2686d9ce8f76a83fac34dff9e4
 #EXTINF:-1 tvg-id="" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)" ch-number="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",ASTRO RIA sooka
 https://linear07-playback.sooka.my/CH4/masterCH4.mpd
 
@@ -117,7 +117,7 @@ https://linears-playback.astro.com.my/vsg/41h34pifbrHetTXXeVKEkt9gsVlyLnu1NAR1Lp
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2308/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlkySXlPR1ppT0RJdE1qTXlPUzAwTURObExUazBPREV0WkdSa1ptRXhORFpqTWpFeCIsIndtb3BpZCI6MzIsImV4cCI6MTcxNTgzMzQ3MSwiaWF0IjoxNzE1MjI5NDcxfQ.EtK2GjkxONdey56EHsbV7M7lmNqfhJppl8cpZjn1HDA"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9EazNNR1prWVRjdE16SXhNUzAwWW1SaUxUZ3lObVV0T1dWaVlXTXpNMlk0Tm1FeSIsIndtb3BpZCI6MzIsImV4cCI6MTcxNTk4ODU0MSwiaWF0IjoxNzE1Mzg0NTQxfQ.zKt330yg4E1Mwc_uegyZj6EJmf5lRBlQ5LMMF6af2k4"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b1a1b7026ce4b378abd4b266aa9780f:121f270c5ea6b690bedd7e4a57f2f0c6
@@ -140,7 +140,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5095/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yUmhNREU0WVdFdE5EQmxPQzAwWkdSaUxUazRNbVF0TURJNE5HVmhPVEppTnpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcxNjE2NTY3MCwiaWF0IjoxNzE1NTYxNjcwfQ.AkERpLpBbxBo4TjCQ3eXRPzd85LqIPcmNdClXAM_17I"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9EazNNR1prWVRjdE16SXhNUzAwWW1SaUxUZ3lObVV0T1dWaVlXTXpNMlk0Tm1FeSIsIndtb3BpZCI6MzIsImV4cCI6MTcxNTk4ODU0MSwiaWF0IjoxNzE1Mzg0NTQxfQ.zKt330yg4E1Mwc_uegyZj6EJmf5lRBlQ5LMMF6af2k4"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
@@ -154,7 +154,7 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 http://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 
 #EXTINF:-1 tvg-id="813" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",ASTRO SUPERSPORT 3 HD  
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlkySXlPR1ppT0RJdE1qTXlPUzAwTURObExUazBPREV0WkdSa1ptRXhORFpqTWpFeCIsIndtb3BpZCI6MzIsImV4cCI6MTcxNTgzMzQ3MSwiaWF0IjoxNzE1MjI5NDcxfQ.EtK2GjkxONdey56EHsbV7M7lmNqfhJppl8cpZjn1HDA"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9EazNNR1prWVRjdE16SXhNUzAwWW1SaUxUZ3lObVV0T1dWaVlXTXpNMlk0Tm1FeSIsIndtb3BpZCI6MzIsImV4cCI6MTcxNTk4ODU0MSwiaWF0IjoxNzE1Mzg0NTQxfQ.zKt330yg4E1Mwc_uegyZj6EJmf5lRBlQ5LMMF6af2k4"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"O+3QvNEXVgFsmjzL559mZQ", "kid":"xeZBeMM+QYWjQG2EJSzXoA" }], "type":"temporary" }
 https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
@@ -162,7 +162,7 @@ https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
 #EXTINF:-1 tvg-id="814" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",ASTRO SUPERSPORT 4 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=010cbb9cf1a01ead38070730d38bc710:9cd5c0d1e54c22e035d88dd3c1dfc84c
@@ -172,7 +172,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
 #EXTINF:-1 tvg-id="411" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MOVIES (ASTRO GO)",HBO HD
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JK1H9zyM//xpYdR6pVG4gg", "kid":"G15RVjjeQkO2ukmEPQvnYw" } ], "type":"temporary" }
@@ -187,13 +187,13 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7481d3e3738c46768f138e208fee9076:e1d428c7f1ca82339a6cfa1d0757428e 
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlkySXlPR1ppT0RJdE1qTXlPUzAwTURObExUazBPREV0WkdSa1ptRXhORFpqTWpFeCIsIndtb3BpZCI6MzIsImV4cCI6MTcxNTgzMzQ3MSwiaWF0IjoxNzE1MjI5NDcxfQ.EtK2GjkxONdey56EHsbV7M7lmNqfhJppl8cpZjn1HDA"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9EazNNR1prWVRjdE16SXhNUzAwWW1SaUxUZ3lObVV0T1dWaVlXTXpNMlk0Tm1FeSIsIndtb3BpZCI6MzIsImV4cCI6MTcxNTk4ODU0MSwiaWF0IjoxNzE1Mzg0NTQxfQ.zKt330yg4E1Mwc_uegyZj6EJmf5lRBlQ5LMMF6af2k4"}
 #EXTINF:-1 tvg-id="803" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)",ASTRO ARENA BOLA
 https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlkySXlPR1ppT0RJdE1qTXlPUzAwTURObExUazBPREV0WkdSa1ptRXhORFpqTWpFeCIsIndtb3BpZCI6MzIsImV4cCI6MTcxNTgzMzQ3MSwiaWF0IjoxNzE1MjI5NDcxfQ.EtK2GjkxONdey56EHsbV7M7lmNqfhJppl8cpZjn1HDA"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9EazNNR1prWVRjdE16SXhNUzAwWW1SaUxUZ3lObVV0T1dWaVlXTXpNMlk0Tm1FeSIsIndtb3BpZCI6MzIsImV4cCI6MTcxNTk4ODU0MSwiaWF0IjoxNzE1Mzg0NTQxfQ.zKt330yg4E1Mwc_uegyZj6EJmf5lRBlQ5LMMF6af2k4"}
 #EXTINF:-1 tvg-id="804" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)",ASTRO ARENA BOLA 2
 https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 
