@@ -41,7 +41,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live15.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png",ASTRO RIA HD
-http://abcnew.site:8880/48mmk110009/91991171/1705
+https://linears-playback.astro.com.my/vsg/41fy7urofEpsv7Qyu4lJIrvCCpCZE06kfnlt52UTPU5JU=GXk8/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5HWm1ZV0k0TnpndFl6RmxOeTAwT0dOaUxXSTNOR0l0TlRFeFpUUTVNREF5Tm1NeSIsIndtb3BpZCI6MzIsImV4cCI6MTcxNzQ3NTI2OCwiaWF0IjoxNzE2ODcxMjY4fQ.RaniakcwrsFl7WNj9f8oH2rzSyFOBYokvgCu3axypJA"}
@@ -54,7 +54,8 @@ https://linear07-playback.sooka.my/CH4/masterCH4.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
 #EXTINF:-1 tvg-id="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",ASTRO WARNA HD
-http://abcnew.site:8880/48mmk110009/91991171/1706
+https://72e103a43f664fb680904780e3641493.mediatailor.ap-southeast-1.amazonaws.com
+/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH4-dash/vsg/41Egyh79TSen3dDR-HERpqON_ANCUcIx_UIMTcB-cg35g=MGgj/dash-wv/jitp-dashisowm/2402/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69796371dc4e457d98fa2b025eabfc94:6e171dc36e2356c24e4e59b19bc98fc5
@@ -64,7 +65,7 @@ https://linear05-playback.sooka.my/CH1/masterCH1.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",ASTRO CITRA HD 
-http://startv365.com:80/live/0664251418/9924187372/400200335.m3u8
+https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/41wbaFs6TAYmBEiRPUJImO-IRd3KOs-wsRyin94--qK_o=DIYp/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=2ca0c953-994e-4e7a-98f1-d2f41e6a0ce
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)", ASTRO CITRA Sooka
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -78,7 +79,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 #EXTINF:-1 tvg-id="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",ASTRO PRIMA HD
-https://linears-playback.astro.com.my/vsg/41LA3Vg1DbNDzt62QgDhxO2Pq-PQMRD68Nwein2Wxy--8=2hET/dash-wv/jitp-dashisowm/1000/default.mpd
+https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41JLw3SY8Qq79H8mepbIFlU612jx8wRX1qmrHf96zUhQQ=hGkR/dash-wv/jitp-dashisowm/1000/default_ott.mpd?aws.sessionId=0b7a3794-5ed4-4d62-b9d9-98d11bace52
 #https://us.dispatch.ulivetv.net/v/live/cg49a7nnj64g.m3u8?stream_id=cg49a7nnj64g&timestamp=1695742025&rand=qKW2DPbXcM&uuid=jHpT5hpwmLn4sdQFSc6dnt&from=web&sign=cbed8a8b0a5374dc51676dd347e08c3c|referer=https://www.histar.tv
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
