@@ -415,7 +415,8 @@ INDONESIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="🇮🇩 INDONESIA" tvg-logo="https://i.postimg.cc/SxtYc1Xk/i-News-TV-Orange.png",iNews TV
-https://mangga-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+#https://mangga-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1  group-title="🇮🇩 INDONESIA" tvg-logo="https://i.postimg.cc/SxtYc1Xk/i-News-TV-Orange.png",iNews TV+
 https://mooncang.my.id/api/rplus/ch.m3u8?id=inews&amp;?|referer=https://www.rctiplus.com/
