@@ -1740,7 +1740,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5114/default_ott.mpd
 #EXTINF:-1 tvg-id="xx" tvg-name="" group-title="Channel Euro 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Sky_Sports_logo_2017.svg.png",SkySport Italy
 https://linear311-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31917/FHD/skysport251/master.mpd
 
-
+#EXTINF:-1 tvg-id="808" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)" tvg-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png",SPOTV STADIA HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e7c650ac72dcd0311411832a8271bb10:ea8fa43cc7102e481cd441c58b2ecb08
+https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5148/default.mpd
 
 
 
