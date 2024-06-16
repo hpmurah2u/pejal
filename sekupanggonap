@@ -1730,7 +1730,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)
 temporary channel
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8bb31d89929ff8ef56ded252646b4710:c12f3eda8e25406ea61a0ca4310dcb7c
+#KODIPROP:inputstream.adaptive.license_key=8bb31d89929ff8ef56ded252646b4710:537b4d0c731192a3b9d3121b2990efba
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png",HEROES 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5114/default_ott.mpd
 
