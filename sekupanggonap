@@ -1745,6 +1745,12 @@ https://linear311-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31917/FHD/skysport251/
 #KODIPROP:inputstream.adaptive.license_key=e7c650ac72dcd0311411832a8271bb10:ea8fa43cc7102e481cd441c58b2ecb08
 https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5148/default.mpd
 
+================================================================
+
+#EXTINF:-1 tvg-id="802" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)",Astro Supersport Plus (astro go)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89c10c7ef0af145be7d6e88dec090b10:80558606a13a99d2c543872d8899ced0
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5076/default_primary.mpd
 
 
 
