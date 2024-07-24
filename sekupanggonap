@@ -504,22 +504,22 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
 #EXTINF:-1 tvg-id="415" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MOVIES (ASTRO GO)",HBO Hits HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
 #EXTINF:-1 tvg-id="412" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MOVIES (ASTRO GO)",CINEMAX HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a642dd4bf3ea782e19202adefb604b10:3f59355e15eed1bb219ea1687d55cfbb
 #EXTINF:-1 tvg-id="321" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CCM_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 CHINESE (ASTRO GO)",Celestial Classic Movies
-http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5c1ba26907291afec11a9a78d513410:361197805d0149c29801946cf2dde67c
 #EXTINF:-1 tvg-id="309" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MOVIES (ASTRO GO)",Celestial Movies HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -534,7 +534,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2305/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
 #EXTINF:-1 tvg-id="413" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MOVIES (ASTRO GO)",SHOWCASE MOVIES
-https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5054/default_ott.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/5054/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bJHjcpzW/20220927-135948.png" group-title="Channel MOVIE (international)",SONY PIX
 https://tv.googledrivelinks.com/live.php?c=Sony_Pix_HD&amp;q=400&amp;e=.m3u8
@@ -547,7 +547,7 @@ http://iptvmedia.live:8080/F22230/6e9e8ce0/157580
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
 #EXTINF:-1 tvg-id="416" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MOVIES (ASTRO GO)",tvN Movies HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 
 
 
