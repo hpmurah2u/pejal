@@ -1237,40 +1237,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9986/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 
 ===========================
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dthsat.com/images/Dazn-1-TV-Logo.png" group-title="Live Channel Bola",DAZN 1
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
-#EXTINF:-1 tvg-id="" tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/21_266.png" group-title="SPORTS",Sony Sports Ten 1
-https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
-#EXTINF:-1 tvg-id="" tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/23_267.png" group-title="Live Channel Bola",Sony Sports Ten 2
-https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/441px-DAZN_2.svg.png" group-title="Live Channel Bola",DAZN 2
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-038/stream.mpd?p=web
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/-LUPFPL6dttA/YwFlJ0QZKtI/AAAAAAAAGQU/UZKv-a2WlIwoa1JpplNN1Ln8NGIop8USQCNcBGAsYHQ/h120/dazenlaliga.png" group-title="Live Channel Bola",DAZN Laliga
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd?p=web
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/320px-DAZN_F1_logo.svg.png" group-title="SPORTS",DAZN F1
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-016/stream.mpd?p=web
-
-#EXTINF:-1 tvg-logo="https://gdplayer.tv/assets/img/logo/supersport-premier-league.png" group-title="Live Channel Bola",SuperSport Premier League
-https://entahlah.gdplayer.to/playlist/d2JDOURjeDdFa1puVjlRNHhxdlQ0N0ZaMVo4TWZGZmdWWjF0VVVXZUNhSFU1b3V3cHZGQ2xLTnd6RVM1TUc2T2E3eEFGdUtDdnBiNDJSMjdDYS8yNHc9PQ,,/master.m3u8?token=dnpQc3BjVUtLN2JkNVVpYkZrWTJadytCV2FrY2srNlhxNXN6WW92eXhZL2JaWUJ6R2Y5c0k2bk9GbTNpQ3AySWxWZWI4YjA3Y1BuS0tKWThQaGFyN3c9PQ,,
-
-===================
 
 
 #EXTINF:-1 tvg-id="805" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)" ch-number="805" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest/scale-to-width-down/1000?cb=20220415221642", Astro SuperSport UHD
