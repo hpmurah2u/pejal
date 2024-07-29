@@ -716,6 +716,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default_ott.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.smithsonianchannel.ca/wp-content/uploads/2018/10/SMC_HORIZ_logo_WHITE.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 KNOWLEDGE (ASTRO GO)",SMITHSONIAN CHANNEL
 https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8
 
+====================astrogo news================
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f06f3b3cf7cbad0cc8b21e2c94dfb10:525510cfa634bd630af8c95fa93576ca
 #EXTINF:-1 tvg-id="501" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 NEWS (ASTRO GO)",ASTRO AWANI
@@ -723,46 +725,54 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a9fcc2f94258cee0f2108687c42e710:99bd7c1ff2391244b4e40e08bef1109d
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="518" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ABC_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 NEWS (ASTRO GO)",ABC Australia
-http://linearjitp-playback.astro.com.my/dash-wv/linear/904/default_ott.mpd
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/904/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1fbd0874e7923f5b05929a042aa0610:6c3c498113abffdf454dc935319a794d
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="513" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AlJazeera_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 NEWS (ASTRO GO)",Al Jazeera English HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01767d1c2315c0e9556f477fb1f0c710:77ec0eeb21c07812fd7c58628366ccb3
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="512" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_World_News_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 NEWS (ASTRO GO)",BBC World News HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_ott.mpd
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/1008/default_ott.mpd
 
 #EXTINF:-1 tvg-id="RTMK04" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Berita_RTM_v2.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 NEWS (ASTRO GO)",BERITA RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1406bbf218ca14f967034fcf4abf7710:39a27aa2cc84a29b665fcc4dbf9c54b6
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="502" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BNC_v3.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 NEWS (ASTRO GO)",BERNAMA
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db1343545ae25ddecf8dfa4422f35410:79a044b30d64f5c37e6d45d503cbb280
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="517" tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo_979_v3.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 NEWS (ASTRO GO)",Bloomberg TV HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_ott.mpd
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/5020/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc66ef0ee35b5ba639dc0e13c5f8a910:9e706161f02fb99cb692d2965470494e
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="503" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CGTN_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 NEWS (ASTRO GO)",CGTN
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5019/default_ott.mpd
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/5019/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f812aeae6be5b924a8181b512d5d7910:44275884ee394d05081fde395ff6e415
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="515" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Channel_News_Asia_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 NEWS (ASTRO GO)",CNA HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_ott.mpd
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/605/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3a38f1340531759a1ca97bc5d80c810:602827a870d49862d1a23f2912957b4c
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="516" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CNBC_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 NEWS (ASTRO GO)",CNBC Asia
-http://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_ott.mpd
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/900/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b618a291cece44c9845dddfc4fd9b10:bf7e1b97555c4acb7455f711b2a9ff16
@@ -771,15 +781,15 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7edf3bd590cf337f721a2e5bec361510:13bb829ce4836ccf74071c45993978c5
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="521" tvg-logo="http://linear-poster.astro.com.my/prod/logo/DW_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 NEWS (ASTRO GO)",DW English
-http://linearjitp-playback.astro.com.my/dash-wv/linear/9984/default_ott.mpd
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/9984/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b0c1cebd0c4518d600f52c354ed1910:76d409ffc4eaa012c61d8c31bd13df5d
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="522" tvg-name="France24" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 NEWS (ASTRO GO)" tvg-logo="https://iili.io/1mezTg.png",France24
-http://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default_ott.mpd
-
-
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/9985/default_ott.mpd
 
 
 ====================================================================================================================================
