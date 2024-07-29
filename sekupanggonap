@@ -819,26 +819,12 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
 
-#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV Asia" group-title="KIDS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/302_1920x1080_HTV.png",Baby TV HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-https://av-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
-https://akamai.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
-
 #EXTINF:-1 tvg-name="Baby Shark TV" tvg-logo="https://i.pinimg.com/564x/8b/e3/3b/8be33b465d4107ba57e33073431dc9b5.jpg" group-title="KIDS", Baby Shark TV
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/220px-LEGO_logo.svg.png" group-title="KIDS", Lego Channel
-https://d34enhfsgjw5ti.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LEGO2-prod/1e7ac04f-874e-4020-8b31-3fab2ead58a5/0.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://ml.globenewswire.com/Resource/Download/e7431928-b552-41fc-87d8-b69238e00c50?size=3.jpg" group-title="KIDS", Kidoodle TV
 https://kidoodletv-kdtv-1-us.samsung.wurl.tv/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="CBeebiesAsia.uk" tvg-logo=" https://i.postimg.cc/L6bzVyH2/Cbeebies-BBC.png " group-title="KIDS", CBeebies BBC
-https://anevia114.mncnow.id:443/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 ====================================================================================================================================
 
 
@@ -1746,21 +1732,6 @@ https://linear007-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/c
 https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague1nl/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 ======================================
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=73a5705d89e43090166c27845ecb0510:6515b27faa59b6cf00e274db05d911f4
-#EXTINF:-1 tvg-id="xx" tvg-name="Ibu Belum Mati" group-title="Astro Citra - AOD" tvg-logo="https://iili.io/GsBIne.jpg",Ibu Belum Mati
-https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/8e4acb4a-2f09-5cd9-8d4a-a6dd3ee608a9/default_dash.mpd
-
-=======================================
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 tvg-id="xx" tvg-name="" group-title="Netflix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/220px-Netflix_2015_logo.svg.png",Jawan 2023
-https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EVnhtVZMsmJBsRBSsPRtk0wBRt9w2tkIO3aj9ZhdcU7vvg
-
-===================
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
