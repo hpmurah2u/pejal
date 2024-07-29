@@ -554,15 +554,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5054/default_ott.mpd
 
 =====================================================================================
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bJHjcpzW/20220927-135948.png" group-title="Channel MOVIE (international)",SONY PIX
-https://tv.googledrivelinks.com/live.php?c=Sony_Pix_HD&amp;q=400&amp;e=.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgRZfkjt/20220926-161550.png" group-title="Channel MOVIE (international)" tvg-id="Thrill.hk" tvg-name="Thrill", Thrill
-http://iptvmedia.live:8080/F22230/6e9e8ce0/157580
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -1203,12 +1194,6 @@ https://tvup-live.secure.footprint.net/barcatv/barcatv.mpd|User-Agent="Mozilla/5
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" group-title="Channel MOVIE (international)", Rakuten TV
 https://rakuten-actionmovies-1-gb.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://images.samsung.com/is/image/samsung/assets/us/tvs/smart-tv/smart-hub-and-apps/06082021/logo-hub.jpg?$FB_TYPE_J_S_JPG" group-title="Channel MOVIE (international)", THE MOVIE HUB
-https://dje6yassknq8t.cloudfront.net/playlist.m3u8
-
-
-
 
 ============================
 
