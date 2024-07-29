@@ -22,19 +22,6 @@ https://unifi-live11.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTVLCOPT:http-referrer=http://www.unifi_en.com.my
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj
-#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-3.png" group-title="SPORTS",Unifi Sports 3
-https://unifi-live11.secureswiftcontent.com/UnifiHD/live13.mpd
-
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj
-#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-4.png" group-title="SPORTS",Unifi Sports 4
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live14.mpd
-
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj
-#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-5.png" group-title="SPORTS",Unifi Sports 5
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live15.mpd
-
-
 ====================================================================================================================================
 <b>channel kena tukar link tiap hari</b>
 
@@ -1306,15 +1293,6 @@ https://entahlah.gdplayer.to/playlist/d2JDOURjeDdFa1puVjlRNHhxdlQ0N0ZaMVo4TWZGZm
 
 ===================
 
-=====================
-#EXTINF:-1 group-title="SPORTS",True football 1
-http://live.apicold.com/streaming/02_PremierHD1_720p/chunklist.m3u8?token=MTMzMzQzNDNhM2Q2ZjYzNmUyMzc1Njk2NjdmNmQ2ZjZmNjQ2NTY2Nzk2YzZlMjQ3MjdmNjA3MzdmMmYyYTMzNzA3NDc0Nzg2
-#EXTINF:-1 group-title="SPORTS",True football 2
-http://150.95.25.221:8000/True%20TPE2HD?u=IIll00yIllq:p=1212uoIIlllI
-#EXTINF:-1 group-title="SPORTS",Bein True
-http://live.apicold.com/streaming/02_PremierHD5_720p/chunklist.m3u8?token=MTMzMzQzNDNhM2Q2ZjYzNmUyMzc1Njk2NjdmNmQ2ZjZmNjQ2NTY2Nzk2YzZlMjQ3MjdmNjA3MzdmMmYyYTMzNzA3NDc0Nzg2
-
-===
 
 #EXTINF:-1 tvg-id="805" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)" ch-number="805" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest/scale-to-width-down/1000?cb=20220415221642", Astro SuperSport UHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
