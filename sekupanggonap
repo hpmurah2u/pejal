@@ -175,11 +175,6 @@ https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
 #EXTINF:-1 tvg-id="806" tvg-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)",ASTRO ARENA BOLA 4
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5102/default.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0510cd2f13504601956fb58167de6beb:bdd71968a15b634b3e097173a8b7ea7b
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",Astro Sensasi HD
-http://vo01.mohdtv.com:8880/voby1993/85233644/1705
-
 <b>tu je kene tukar ikut expire date</b>
 
 ====================================================================================================================================
