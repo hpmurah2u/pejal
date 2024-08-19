@@ -1189,13 +1189,16 @@ https://rmtv-canela.amagi.tv/playlist.m3u8
 https://tvup-live.secure.footprint.net/barcatv/barcatv.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 
-
-
-
 ============================================================
+ 
+channel movie international
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" group-title="Channel MOVIE (international)", Rakuten TV
 https://rakuten-actionmovies-1-gb.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.popstaronline.com/wp-content/uploads/2019/07/popstar-tv-logo.png" group-title="Channel MOVIE (international)", Popstar! TV
+https://linear-10.frequency.stream/dist/zype/10/hls/master/playlist.m3u8
+
 
 ============================
 
