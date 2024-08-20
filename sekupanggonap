@@ -6,7 +6,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 tvg-id="" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)" ch-number="" tvg-logo="https://1.bp.blogspot.com/-7VCmfo92Zls/YTWfhHNpbGI/AAAAAAAAiEM/WBDJq1lf2FABp1IqDlqnU7BnN-RlNevpQCLcBGAsYHQ/s16000/SUKE_TV_Logo.png",SUKE TV
-#EXTGRP:Variety #EXTVLCOPT:network-caching=1000 
 https://live.mana2.my/SukeTv/index.m3u8
 
 ==========================================================================================================
