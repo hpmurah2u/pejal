@@ -27,19 +27,22 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png",ASTRO RIA HD
-https://tv.jnda.tech/hxr/9u9k4t/l.mpd
+https://9nmy.short.gy/1004.mpd
+#https://tv.jnda.tech/hxr/9u9k4t/l.mpd
 #https://linears-playback.astro.com.my/vsg/41bXPmm6Wfa7GHGd9QuNMpgSRiGR3BsJHZzGRYJz0tAno=1PRB/dash-wv/jitp-linearwm/1000/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
 #EXTINF:-1 tvg-id="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",ASTRO WARNA HD
-https://tv.jnda.tech/hxr/1d0euu1/l.mpd
+https://9nmy.short.gy/2402.mpd
+#https://tv.jnda.tech/hxr/1d0euu1/l.mpd
 #https://linears-playback.astro.com.my/vsg/41oN22S51uUDo8E9ET1Tb2Pk2D2Ecu8AA4dUUiGSGmM0E=d7OH/dash-wv/jitp-linearwm/2402/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",ASTRO CITRA HD 
-https://tv.jnda.tech/hxr/1obq8t2/l.mpd
+https://9nmy.short.gy/2700.mpd
+#https://tv.jnda.tech/hxr/1obq8t2/l.mpd
 #https://linears-playback.astro.com.my/vsg/41R5NwxIWNIOv3hCSXilwexVEReUzlMH6yy4UKV_HhE-8=fMl6/dash-wv/jitp-linearwm/2700/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
