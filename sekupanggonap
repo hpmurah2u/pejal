@@ -224,8 +224,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60f202b16407fedd8e369c32af57dd10:c8475231c09dc1b639886976b6fc7575
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.533267421985.channel.B7bB1wHJRCnw.m3u8
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3e956b38ae993be1494c7cfa17b1110:55ccaee886b340dd901f4bf8dd9d3a6a
